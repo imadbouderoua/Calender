@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="710e481f-394f-40e3-a392-c4d81e459d79" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/app/Http/Controllers/EventController.php" beforeDir="false" afterPath="$PROJECT_DIR$/main/app/Http/Controllers/EventController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/main/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/main/routes/web.php" afterDir="false" />
     </list>
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706533728631</updated>
-      <workItem from="1706533729634" duration="4168000" />
+      <workItem from="1706533729634" duration="6347000" />
     </task>
     <servers />
   </component>

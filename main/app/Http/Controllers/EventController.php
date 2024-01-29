@@ -24,7 +24,8 @@ class EventController extends Controller
             }
         }
 
-        // Redirect or return a response as needed
-        return view('welcome');
+        $events = Event::all();
+        // Pass the events data to the 'welcome' view
+        return view('welcome', compact('events'));
     }
 }
